@@ -1,0 +1,17 @@
+﻿  Food.cpp
+C:\Users\Work\source\repos\Snake++\Snake++\Food.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Food.cpp")
+  
+  Game.cpp
+C:\Users\Work\source\repos\Snake++\Snake++\Game.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Game.cpp")
+  
+  main.cpp
+C:\Users\Work\source\repos\Snake++\Snake++\Game.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "main.cpp")
+  
+  Snake.cpp
+C:\Users\Work\source\repos\Snake++\Snake++\Snake.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Snake.cpp")
+  
+  Создание кода...
