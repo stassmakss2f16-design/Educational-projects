@@ -1,2 +1,2 @@
-Классическая аркадная игра "Змейка", написанная на C++ с использованием бтблиотеки SFML. 
-Цель проекта — освежить в памяти основы программирования, работу с графикой и обработку пользовательского ввода.
+A classic arcade game "Snake", written in C++ using the SFML library. 
+The purpose of the project is to refresh the basics of programming, working with graphics, and processing user input.
